@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="save_task">Save Task</string>
+    <string name="final_value">Final Value</string>
+    <string name="initial_value">Initial Value</string>
+    <string name="task_name">Task Name</string>
+    <string name="learn_java">Learn Java</string>
+</resources>
