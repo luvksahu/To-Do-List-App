@@ -3,9 +3,11 @@
 #### This is an Android App developed using MVVM architecture, Room database.
 
 <div>
-<img  src="res/" alt="luvksahu" height="480" width="260" display:inline/>
-<img  src="res/" alt="luvksahu" height="480" width="260" />
-<img  src="res/" alt="luvksahu" height="480" width="260" />
+<img  src="res/Splash Screen.png" alt="luvksahu" height="480" width="260" display:inline/>
+<img  src="res/Main Screen.png" alt="luvksahu" height="480" width="260" />
+<img  src="res/Dialog box.png" alt="luvksahu" height="480" width="260" />
+<img  src="res/Add task.png" alt="luvksahu" height="480" width="260" />
+<img  src="res/Update task.png" alt="luvksahu" height="480" width="260" />
  </div>
 
 ### Let us connect :
