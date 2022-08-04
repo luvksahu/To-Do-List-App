@@ -1,6 +1,6 @@
 # To Do List App
 
-#### This is an Android App developed using Python and API integration. We can search for the meaning of any word in English which is done using API. This has an attractive UI including the animations on the Splash Screen.
+#### This is an Android App developed using MVVM architecture, Room database.
 
 <div>
 <img  src="res/" alt="luvksahu" height="480" width="260" display:inline/>
